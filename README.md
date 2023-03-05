@@ -1,0 +1,1 @@
+# FlaskからStripeの決済を行う
